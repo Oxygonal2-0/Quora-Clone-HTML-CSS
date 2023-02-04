@@ -1,10 +1,3 @@
-# Re-creation of famous templates with HTML, CSS and Bootstrap
-
-## Glassdoor profile page
-Live view:
-https://htmlpreview.github.io/?https://github.com/miladshiri/famous-websites-template/blob/main/glassdoor_profile/index.html
-
-
 ## Quora home page
-Live view:
-https://htmlpreview.github.io/?https://github.com/miladshiri/famous-websites-template/blob/main/quora_main_page/index.html
+
+![Screenshot (607)](https://user-images.githubusercontent.com/115532101/216748984-8904587f-93d6-4ba9-a06f-c151c351a3dc.png)
